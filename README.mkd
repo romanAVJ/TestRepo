@@ -1,0 +1,1 @@
+Test repo for making several merges and solving conlficts. Personal learning.
